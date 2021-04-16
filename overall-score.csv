@@ -1,13 +1,13 @@
-Team,Score
-Kill Killi,7
-Marauders,6
-PK11,5
-Papampatti,5
-SecondDose,5
-Daddy Munnetra Kalagam,4
-Royapuram,3
-I'm in,2
-IPL-T20-21,2
-Bhagavath,0
-Chicago T20,0
-Dummy,0
+Team,Score,Match-Bonus,Round-Bonus,Total-Score
+Marauders,6,0,3,9
+Kill Killi,6,1,0,7
+PK11,4,1,0,5
+Papampatti,4,1,0,5
+SecondDose,4,1,0,5
+Daddy Munnetra Kalagam,4,0,0,4
+Royapuram,2,1,0,3
+I'm in,2,0,0,2
+IPL-T20-21,2,0,0,2
+Bhagavath,0,0,0,0
+Chicago T20,0,0,0,0
+Dummy,0,0,0,0
