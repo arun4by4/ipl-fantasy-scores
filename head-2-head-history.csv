@@ -1,19 +1,19 @@
 Round,Team1,Team1-Fanpoints,Team1-Score,Team1-Match-Bonus,Team1-MatchTotal,Team2,Team2-Fanpoints,Team2-Score,Team2-Match-Bonus,Team2-MatchTotal
-3,IPL-T20-21,120,2,0,2,I'm in,90,0,0,0
-3,Papampatti,70,2,0,2,Dummy,0,0,0,0
-3,Kill Killi,399,2,1,3,Daddy Munnetra Kalagam,68,0,0,0
-3,SecondDose,305,2,0,2,Bhagavath,0,0,0,0
-3,Royapuram,303,2,1,3,PK11,93,0,0,0
-3,Marauders,405,2,0,2,Chicago T20,357,0,0,0
+1,SecondDose,1343,2,1,3,Chicago T20,607,0,0,0
+1,Kill Killi,1209,2,0,2,Royapuram,795,0,0,0
+1,Marauders,1353,2,0,2,Papampatti,1126,0,0,0
+1,PK11,1050,2,1,3,IPL-T20-21,315,0,0,0
+1,I'm in,499,2,0,2,Bhagavath,0,0,0,0
+1,Daddy Munnetra Kalagam,1213,2,0,2,Dummy,0,0,0,0
+2,Daddy Munnetra Kalagam,1566,2,0,2,Chicago T20,1085,0,0,0
+2,Dummy,0,0,0,0,Bhagavath,0,0,0,0
+2,PK11,1757,2,0,2,I'm in,993,0,0,0
+2,Marauders,2035,2,0,2,IPL-T20-21,1022,0,0,0
 2,Papampatti,1505,2,1,3,Royapuram,639,0,0,0
 2,Kill Killi,1733,2,0,2,SecondDose,1066,0,0,0
-2,Marauders,2035,2,0,2,IPL-T20-21,1022,0,0,0
-2,PK11,1757,2,0,2,I'm in,993,0,0,0
-2,Dummy,0,0,0,0,Bhagavath,0,0,0,0
-2,Daddy Munnetra Kalagam,1566,2,0,2,Chicago T20,1085,0,0,0
-1,Kill Killi,1209,2,0,2,Royapuram,795,0,0,0
-1,Daddy Munnetra Kalagam,1213,2,0,2,Dummy,0,0,0,0
-1,I'm in,499,2,0,2,Bhagavath,0,0,0,0
-1,PK11,1050,2,1,3,IPL-T20-21,315,0,0,0
-1,Marauders,1353,2,0,2,Papampatti,1126,0,0,0
-1,SecondDose,1343,2,1,3,Chicago T20,607,0,0,0
+3,Chicago T20,752,2,0,2,Marauders,580,0,0,0
+3,Royapuram,598,2,0,2,PK11,380,0,0,0
+3,SecondDose,305,2,0,2,Bhagavath,0,0,0,0
+3,Kill Killi,724,2,1,3,Daddy Munnetra Kalagam,142,0,0,0
+3,Papampatti,276,2,0,2,Dummy,0,0,0,0
+3,IPL-T20-21,395,2,0,2,I'm in,213,0,0,0
